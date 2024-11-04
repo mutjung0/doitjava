@@ -1,6 +1,6 @@
 package ch13_2_lambda;
 
-public class StringConcatMain {
+public class TestStringConcat {
     public static void main(String[] args) {
         String s1 = "Hello";
         String s2 = "World";
